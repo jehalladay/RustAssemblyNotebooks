@@ -1,4 +1,4 @@
-# Rust/WebAssembly Notebooks
+# Beginners Rust and Web Assembly Notebooks
 
 # Installing 
 
