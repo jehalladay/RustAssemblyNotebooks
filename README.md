@@ -49,7 +49,7 @@ Then install the Rust Kernal for Jupyter Notebooks, EvCxR, found here: [https://
 ```
 
 
-## How to run these notebooks
+##  Running the notebook
 
 Once you have everything installed properly, a notebook server can be launched from any directory. To run this notebook run the following code in the WSL or Bash shell
 
